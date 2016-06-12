@@ -29,7 +29,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 ### Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
-![myTumblr Demo gif](myTumblrDemo.gif)
+![myTumblr Demo gif](myTumbrDemo.gif)
 
 
 
